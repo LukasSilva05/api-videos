@@ -1,0 +1,174 @@
+{
+    "js": [
+        {
+            "src": "https://www.youtube.com/embed/VdhSFDAHkJ8",
+            "title": "JavaScript - Introdução",
+            "subtitle": "Introdução ao JavaScript",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Seja muito bem-vindo(a) ao universo da programação. Nesse vídeo introdutório, vamos mostrar o que vão aprender, o que é programar, como programar e também a fazer o seu primeiro programa."
+        },
+        {
+            "src": "https://www.youtube.com/embed/gFUnXLimLDQ",
+            "title": "JavaScript - Primeiros passos",
+            "subtitle": "alert, document.write e console.log",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo você dará os primeiros passos em JavaScript, aprendendo a exibir mensagens no navegador."
+        },
+        {
+            "src": "https://www.youtube.com/embed/cmEJiEgJN4o",
+            "title": "JavaScript - Comentários",
+            "subtitle": "Deixando comentários em seu programa",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo você aprenderá a deixar comentários em seu programa. Que é uma forma de deixar seu código mais organizado e de fácil entendimento, tanto pra você, quanto para outras pessoas."
+        },
+        {
+            "src": "https://www.youtube.com/embed/XxV4MHi6PYQ",
+            "title": "JavaScript - Variáveis",
+            "subtitle": "var, let e const",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nessa aula você aprenderá a alocar espaços na memória do computador para armazenar informações, chamadas de variáveis. Um dos assuntos mais importantes de se aprender para dominar qualquer linguagem de programação."
+        },
+        {
+            "src": "https://www.youtube.com/embed/k5PdO6sXC-s",
+            "title": "JavaScript - Entrada de dados com prompt",
+            "subtitle": "Trazendo dados para dentro do código",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nessa aula vamos aprender a trazer informações para dentro do código. Através do comando prompt(), conseguimos conversar com o usuário do nosso programa, e pedir informações (dados) para poder trabalhar com eles."
+        },
+        {
+            "src": "https://www.youtube.com/embed/QssWKsminZg",
+            "title": "JavaScript - Concatenação",
+            "subtitle": "Juntando textos e variáveis",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nessa aula a gente vai aprender a juntar textos e variáveis através da concatenação."
+        },
+        {
+            "src": "https://www.youtube.com/embed/yYpuhmgMn90",
+            "title": "JavaScript - Tipos de Dados",
+            "subtitle": "string, number, boolean e undefined",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nessa aula vamos aprender sobre os tipos de dados existentes no JavaScript. Textos, números, verdadeiro ou falso e etc."
+        },
+        {
+            "src": "https://www.youtube.com/embed/XbYfwqerZjE",
+            "title": "JavaScript - Conversão de Tipos",
+            "subtitle": "Convertendo um tipo de dado em outro",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nessa aula vamos aprender a converter um tipo de dado em outro. Através dos comandos Number() e toString() conseguimos converter um texto em número e vice-versa."
+        },
+        {
+            "src": "https://www.youtube.com/embed/KO3jpeABkJ4",
+            "title": "JavaScript - Entrada, processamento e saída",
+            "subtitle": "Praticando e avançando",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nessa aula vamos colocar em prática tudo que vimos até agora. Entrada de dados (prompt()), processamento (cálculos) e saída de dados (alert, document.write, console.log)."
+        },
+        {
+            "src": "https://www.youtube.com/embed/-IohOlfvfMk?si=V0aTPOb5Zp0lbymz",
+            "title": "JavaScript - Operadores e funções matemáticas",
+            "subtitle": "Cálculos de uma forma simples",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Em programação é muito comum a realização de códigos matemáticos. Então, operadores aritméticos e funções matemáticas são indispensáveis."
+        },
+        {
+            "src": "https://www.youtube.com/embed/z2Yp5B6ajh8?si=Aj-2q60uCOa-80Z_",
+            "title": "JavaScript - Operadores relacionais",
+            "subtitle": "Comparando valores",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Operadores relacionais são utilizados para comprar dois valores e resultam em um valor booleano(verdadeiro ou falso)."
+        },
+        {
+            "src": "https://www.youtube.com/embed/Mq--B2DodJE?si=k21uibbGWrGCshpd",
+            "title": "JavaScript - Operadores lógicos",
+            "subtitle": "&&(AND), ||(OR) e !(NOT)",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Operadores lógicos permitem fazer mais de uma comparação. Testam dois valores booleanos e resultam, também, em um valor booleano(verdadeiro ou falso)."
+        },
+        {
+            "src": "https://www.youtube.com/embed/bpHz8f_iyO4?si=fAC6z7LmFe_TXSDh",
+            "title": "JavaScript - Condições (Parte 1)",
+            "subtitle": "if()...else if()...else",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Em programação é bem raro não ter um código sem estruturas de condições. Através delas, podemos ter vários caminhos ou possibilidades baseadas em condições lógicas."
+        },
+        {
+            "src": "https://www.youtube.com/embed/06G1m0B4yaA?si=1SoDrKhunGfuLDDK",
+            "title": "JavaScript - Condições (Parte 2)",
+            "subtitle": "Operador Ternário",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "O operador ternário é uma forma mais compacta de se fazer uma estrutura if()...else."
+        },
+        {
+            "src": "https://www.youtube.com/embed/8hLEBsgtSBo?si=A4TyQOYurdHcts-p",
+            "title": "JavaScript - Condições (Parte 3)",
+            "subtitle": "Switch...Case",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Outra estrutura de condição parecida com o if(). Porém, mais útil quando nossas alternativas forem baseadas no conteúdo de alguma variável."
+        },
+        {
+            "src": "https://www.youtube.com/embed/BXUrqUPeGSc",
+            "title": "JavaScript - Repetições (Parte 1)",
+            "subtitle": "Incremento e Estrutura while",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo a gente aprende a utilizar estruturas de repetição, facilitando nossa vida ao repetir determinados blocos de código."
+        },
+        {
+            "src": "https://www.youtube.com/embed/JkbEkk67kH4",
+            "title": "JavaScript - Repetições (Parte 2)",
+            "subtitle": "Estrutura for",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo a gente aprende a utilizar estruturas de repetição, facilitando nossa vida ao repetir determinados blocos de código."
+        },
+        {
+            "src": "https://www.youtube.com/embed/CktayeTGFxY",
+            "title": "JavaScript - Repetições (Parte 3)",
+            "subtitle": "Estrutura do...while e Decremento",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo a gente aprende a utilizar estruturas de repetição, facilitando nossa vida ao repetir determinados blocos de código."
+        },
+        {
+            "src": "https://www.youtube.com/embed/91Iwx_C9-Fs",
+            "title": "JavaScript - Vetores / Arrays",
+            "subtitle": "Criando e Manipulando Vetores",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo a gente começa a trabalhar com listas de dados, criando e manipulando vetores JavaScript."
+        },
+        {
+            "src": "https://www.youtube.com/embed/4qcyM16quDw",
+            "title": "JavaScript - Objetos e Vetores de Objetos",
+            "subtitle": "Criando Objetos e Vetores de Objeto",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo a gente continua nosso assunto sobre vetores. Aprendemos o que são Objetos, a como criar, manipular e armazenar em um vetor."
+        },
+        {
+            "src": "https://www.youtube.com/embed/SFQ4Nzcst_s",
+            "title": "JavaScript - Strings",
+            "subtitle": "Manipulando Strings",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo a gente aprende a manipular strings. Pegando caracteres específicos, colocando em maiúsculo ou minúsculo e até transformando uma string em um vetor."
+        },
+        {
+            "src": "https://www.youtube.com/embed/HCZ6CbDzvo8",
+            "title": "JavaScript - Datas",
+            "subtitle": "Manipulando Datas",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo a gente aprende a manipular datas. Pegando dia, mês e ano de uma determinada data, e até calculando a distância de dias entre duas datas."
+        },
+        {
+            "src": "https://www.youtube.com/embed/RfRXrO1YUqE",
+            "title": "JavaScript - Funções",
+            "subtitle": "Trabalhando com Funções",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo a gente finalmente se aprofunda em funções. Funções com parâmetros, retorno de valores e funções anônimas."
+        },
+        {
+            "src": "https://www.youtube.com/embed/F51egGP7a08",
+            "title": "JavaScript - Eventos",
+            "subtitle": "Manipulando Eventos",
+            "thumb": "https://ead.umc.br/hubfs/os-softwares-de-codigo-aberto-mais-usados.png",
+            "description": "Nesse vídeo a gente aprende a manipular eventos. Eventos de formulário(submit, reset), de mouse(mouseover, mouseout, click) e até de teclado(keypress), deixando assim, a nossa página bem mais completa e interessante."
+        }
+    ],
+    "html": [],
+    "vscode": []
+}
